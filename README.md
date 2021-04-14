@@ -1,1 +1,1 @@
-#Kmeans_KNN
+# Kmeans and KNNs example
